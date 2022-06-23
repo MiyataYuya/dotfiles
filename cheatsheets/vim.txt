@@ -1,0 +1,4 @@
+vim plug
+deno
+ddc
+を追加した。
